@@ -1,0 +1,15 @@
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
+numpy==1.26.4
+pandas==2.2.0
+matplotlib==3.8.2
+seaborn==0.13.1
+scikit-learn==1.4.0
+opencv-python==4.9.0.80
+Pillow==10.2.0
+tqdm==4.66.1
+typing_extensions==4.9.0
+requests==2.31.0
+jupyter==1.0.0
+ipykernel==6.29.0
